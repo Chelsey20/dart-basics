@@ -12,3 +12,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 
 
 ### Open `lib` folder to view dart files
+
+
+### See the documentation
+
+https://docs.google.com/document/d/1YoL1CEI3ktR47k7FRbCvu0K89wPuoLWzlwwc_Bzn86Y/edit?usp=sharing
