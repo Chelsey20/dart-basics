@@ -10,6 +10,7 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ `final` vs `const`
 - ✅ IF ELSE Conditional Statements
 - ✅ Conditional Expressions
+- ✅ Switch and Case Statement
 
 
 
