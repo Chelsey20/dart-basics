@@ -9,6 +9,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Strings, Literals and String Interpolation
 - ✅ `final` vs `const`
 - ✅ IF ELSE Conditional Statements
+- ✅ Conditional Expressions
+
 
 
 ### Open `lib` folder to view dart files
