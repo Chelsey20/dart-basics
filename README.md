@@ -11,6 +11,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ IF ELSE Conditional Statements
 - ✅ Conditional Expressions
 - ✅ Switch and Case Statement
+- ✅ Loops and Iterators: For Loop, While Loop, Do While Loop
+- ✅ Break Keyword
 
 
 
