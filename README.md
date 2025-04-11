@@ -13,6 +13,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Switch and Case Statement
 - ✅ Loops and Iterators: For Loop, While Loop, Do While Loop
 - ✅ Break and Continue Keyword, Labels and Nested Loop
+- ✅ Functions as Objects
+- ✅ Function Parameters: Required, Named Parameters, and Default Parameters
 
 
 
