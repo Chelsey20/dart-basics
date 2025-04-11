@@ -11,7 +11,7 @@ void main() {
       print("$i $j");
 
       if (i == 2 && j == 2) {
-        break myOuterLoop;
+        break;
       }
     }
   }
