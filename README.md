@@ -17,6 +17,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Function Parameters: Required, Named Parameters, and Default Parameters
 - ✅ Exception Handling
 - ✅ Implements, Abstract Class
+- ✅ Classes
+- ✅ Constructors: Default, Parameterized, Named and Constant
 
 
 ### Open `lib` folder to view dart files
