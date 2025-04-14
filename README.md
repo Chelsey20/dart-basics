@@ -15,7 +15,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Break and Continue Keyword, Labels and Nested Loop
 - ✅ Functions as Objects
 - ✅ Function Parameters: Required, Named Parameters, and Default Parameters
-
+- ✅ Exception Handling
+- ✅ Implements, Abstract Class
 
 
 ### Open `lib` folder to view dart files
