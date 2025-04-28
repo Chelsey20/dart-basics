@@ -19,6 +19,16 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Implements, Abstract Class
 - ✅ Classes
 - ✅ Constructors: Default, Parameterized, Named and Constant
+- ✅ Getters, Setters and Private Instance Variables
+- ✅ Inheritance in Dart
+- ✅ Implementing Inheritance
+- ✅ Method Overriding
+- ✅ Inheritance with Constructors
+- ✅ Abstract Class and Methods
+- ✅ Interface
+- ✅ Static Method and Variables
+- ✅ Getter, Setter, Private Instance Variables
+- ✅ Inheritance, Method Overriding
 
 
 ### Open `lib` folder to view dart files
