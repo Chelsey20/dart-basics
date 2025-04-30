@@ -29,6 +29,8 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Static Method and Variables
 - ✅ Getter, Setter, Private Instance Variables
 - ✅ Inheritance, Method Overriding
+- ✅ Inheritance with Constructors
+- ✅ Abstract Class and Abstract method
 
 
 ### Open `lib` folder to view dart files
