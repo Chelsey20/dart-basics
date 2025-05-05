@@ -32,6 +32,7 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Inheritance with Constructors
 - ✅ Abstract Class and Abstract method
 - ✅ Interface and implements keyword
+- ✅ Static variables, and methods
 
 
 ### Open `lib` folder to view dart files
