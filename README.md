@@ -33,7 +33,7 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Abstract Class and Abstract method
 - ✅ Interface and implements keyword
 - ✅ Static variables, and methods
-- ✅ Lambda Expression, Higher Order Functions
+- ✅ Lambda Expression, Higher Order Functions, Closures
 
 
 ### Open `lib` folder to view dart files

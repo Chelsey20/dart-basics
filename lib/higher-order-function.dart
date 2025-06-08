@@ -20,7 +20,6 @@ void main() {
 void somOtherFunction(String message, Function myFunction) {
   print(message);
   myFunction(2, 5);
-  // myFunction('chels', ' meow');
 }
 
 // Example 2: Returns a function
