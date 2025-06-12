@@ -34,7 +34,7 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Interface and implements keyword
 - ✅ Static variables, and methods
 - ✅ Lambda Expression, Higher Order Functions, Closures
-- ✅ Fixed Lists, Growable List
+- ✅ Fixed Lists, Growable List, Set, Maps
 
 
 ### Open `lib` folder to view dart files
