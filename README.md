@@ -35,6 +35,7 @@ Welcome to this Dart learning project! This repository is dedicated to helping m
 - ✅ Static variables, and methods
 - ✅ Lambda Expression, Higher Order Functions, Closures
 - ✅ Fixed Lists, Growable List, Set, Maps
+- ✅ Callable class
 
 
 ### Open `lib` folder to view dart files
